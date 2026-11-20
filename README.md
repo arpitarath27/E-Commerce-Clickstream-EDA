@@ -103,7 +103,7 @@ Online Shopping Clickstream EDA/
 │   └── E-Commerce_Clickstream_Report.pdf
 │
 ├── presentation/
-│   └── E-Commerce_Clickstream_EDA_Presentation.pptx
+│   └── E-Commerce_Clickstream_EDA_Presentation.pdf
 │
 └── README.md
 ```
